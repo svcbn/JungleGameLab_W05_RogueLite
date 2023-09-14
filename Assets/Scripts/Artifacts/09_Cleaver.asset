@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5099c047515e6ee468da8e5446b8b1e1, type: 3}
+  m_Name: 09_Cleaver
+  m_EditorClassIdentifier: 
+  ID: 9
+  Sprite: {fileID: 21300000, guid: 5dd3a5ff32718bc40b6d4562a7eb4f97, type: 3}
+  Name: "\uB3C4\uCD95\uC790"
+  Rarity: 1
+  MaxHp: 0
+  Str: 2
+  Dex: 3
+  Def: 0
+  Crit: 0
+  CritDmg: 0
+  ArmorPen: 0
+  IsEquipped: 0

@@ -1,0 +1,21 @@
+public enum MapType
+{
+    Empty = 0,
+    Block,
+    Monster,
+    Event,
+    Heal,
+    Item,
+    Hide,
+    Chest,
+    Boss,
+    Door,
+    Player,
+    StairUp,
+    StairDown,
+    Knight,
+    Princess,
+    Shop,
+    Dragon,
+    Sealstone,
+}

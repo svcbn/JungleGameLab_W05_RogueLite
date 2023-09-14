@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5099c047515e6ee468da8e5446b8b1e1, type: 3}
+  m_Name: 22_Nail
+  m_EditorClassIdentifier: 
+  ID: 22
+  Sprite: {fileID: 21300000, guid: 9d24077938caf184ebb8af6db4d97110, type: 3}
+  Name: "\uC410\uAE30"
+  Rarity: 2
+  MaxHp: 0
+  Str: 0
+  Dex: 0
+  Def: 0
+  Crit: 8
+  CritDmg: 0.15
+  ArmorPen: 0
+  IsEquipped: 0
