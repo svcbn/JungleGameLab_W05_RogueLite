@@ -76,7 +76,7 @@ public class BattleEvent : MonoBehaviour
 
     bool Dodges(float unitDex)
     {
-        float dex = 10f * Mathf.Log10(unitDex);
+        float dex = 30f * Mathf.Log10(unitDex);
 
         float random = UnityEngine.Random.Range(0f, 100f);
 
